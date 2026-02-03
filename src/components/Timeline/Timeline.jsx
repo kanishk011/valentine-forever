@@ -38,7 +38,6 @@ const Timeline = ({ onNext, onPrev, currentStep, totalSteps }) => {
       <Box
         sx={{
           minHeight: '100vh',
-          minHeight: '100dvh',
           display: 'flex',
           flexDirection: 'column',
           position: 'relative',
